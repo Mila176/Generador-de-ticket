@@ -1,0 +1,9 @@
+{
+  "homepage": "https://mila176.github.io/Generador-de-Ticket/",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
